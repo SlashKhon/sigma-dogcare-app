@@ -1,10 +1,10 @@
-# 🐶 Sigma DogCare – Figma Prototype
+#  Sigma DogCare – Figma Prototype
 
 This repository presents interactive **Figma mockups** of the *Sigma DogCare* mobile application, designed for both **Dog Owners** and **Dog Carers**. The mockups demonstrate the complete user journey and interface flow, including key screens such as login, booking, caregiver profiles, and confirmation messages.
 
 ---
 
-## 📲 Project Overview
+##  Project Overview
 
 **Sigma DogCare** is a conceptual mobile application developed for a university assignment in UX/UI design. The goal is to facilitate seamless interaction between pet owners and trusted carers for dog walking, sitting, and caregiving services.
 
